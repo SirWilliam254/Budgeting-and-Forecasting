@@ -8,7 +8,7 @@ Budgeting is the process of creating a financial plan for a specified period of 
 Forecasting, on the other hand, is the process of making predictions about future financial performance based on historical data and current trends. Financial forecasting is a critical tool for businesses to plan for the future, make informed decisions and allocate resources effectively. It helps companies estimate future revenue, expenses and cash flows and adjust their budgets accordingly.
 Together, budgeting and forecasting provide a comprehensive view of a company's financial position, and help management make informed decisions and stay on track towards their financial goals.
 
-## Why is budgeting prudent
+## Why is budgeting Pertinent
 -	```Helps control spending: ``` A budget sets clear financial goals and limits on spending, which can help prevent overspending and ensure that resources are allocated in a way that aligns with the company's priorities.
 -	```Supports decision-making: ``` A budget provides a framework for decision-making by showing the financial consequences of different choices. It helps managers prioritize spending and make informed decisions based on available resources.
 -	```Enhances financial planning: ``` Budgeting helps companies plan for the future by estimating expected income and expenses and allocating resources accordingly. This can help companies plan for short-term and long-term financial goals.
